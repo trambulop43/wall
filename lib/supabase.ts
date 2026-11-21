@@ -12,4 +12,5 @@ export type Post = {
   created_at: string;
   name: string;
   message: string;
+  image_url: string | null;
 };
