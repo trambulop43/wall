@@ -57,6 +57,6 @@ app/globals.css     2008-era styling
 
 ## Live demo
 
-Deployed on Vercel: (URL added after deploy)
+Deployed on Vercel: https://wall-amber.vercel.app
 
 Built by Paul Domenic Trambulo.
