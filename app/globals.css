@@ -1,16 +1,4 @@
-* { box-sizing: border-box; margin: 0; padding: 0; }
-
 :root {
-  --fb-blue: #3b5998;
-  --fb-blue-dark: #2d4373;
-  --fb-bg: #edf0f5;
-  --fb-border: #d8dfea;
-  --fb-text: #1d2129;
-  --fb-muted: #90949c;
-}
-
-body {
-  font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
   --bg: #eef1f6;
   --card: #ffffff;
   --ink: #141823;
